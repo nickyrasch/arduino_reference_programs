@@ -1,3 +1,11 @@
 # Arduino Reference Programs
-* Some  great reference for simple arduino programs
-* Base for builing more complicated devices and programs
+* heartbeat
+* motor_direction_program
+* motor_speed_control_program
+* nightlight
+* pentatonic_piano
+* play_test_song
+* serial_value_reader
+* servo_potentiometer_control
+* sweeping_distance_sensor
+* test_blink
